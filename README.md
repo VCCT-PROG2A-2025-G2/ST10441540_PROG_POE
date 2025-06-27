@@ -35,6 +35,9 @@ Required in Part 3:
 
 Part 3 is solely a GUI-based application. The GUI must be implemented using XAML/Windows Forms.
 
+Youtube Link:
+https://youtu.be/VD2XD6v1ue4
+
 References:
 User Interaction:
 https://www.ibm.com/think/topics/natural-language-processing
